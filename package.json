@@ -1,0 +1,12 @@
+{
+  "name": "realtix",
+  "version": "1.0.0",
+  "description": "realtix webpage",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Linards",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
